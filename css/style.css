@@ -1,3 +1,9 @@
 html {
     scroll-behavior: smooth;
 }
+body {
+    font-family: sans-serif;
+}
+ul {
+    line-height: 35px;
+}
